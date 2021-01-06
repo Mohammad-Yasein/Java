@@ -1,0 +1,21 @@
+.form-container {
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    width: 254px;
+}
+
+.activities {
+    border: 2px solid black;
+    height: 200px;
+    margin: 10px;
+    overflow: auto;
+}
+
+.score {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 5px;
+    width: 150px;
+}
